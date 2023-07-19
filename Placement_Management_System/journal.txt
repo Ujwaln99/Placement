@@ -1,0 +1,6 @@
+22|01|7.7|0|Amazon|24,00,000|nothing|
+134|08|6.7|3|TCS|null|no skills|
+154|06|8.4|0|Amazon|24,00,000|no comments|
+154|07|8.5|0|Amazon|24,00,000|no comments|
+999|999|999|999|Amazon|24,00,000|no comments|
+999|999|999|999|999|999|999|999|999|

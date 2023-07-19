@@ -1,0 +1,4 @@
+shivam|22|01|ECE|7.7|0|Amazon|24,00,000|nothing|
+xyz|134|08|AIDS|6.7|3|TCS|null|no skills|
+tarun|154|07|ISE|8.5|0|Amazon|24,00,000|no comments|
+999|999|999|999|999|999|999|999|999|
